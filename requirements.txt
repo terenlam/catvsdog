@@ -1,0 +1,4 @@
+fastai
+ipywidgets
+voila
+Pillow
