@@ -2,5 +2,3 @@ fastai>=2.7
 ipywidgets>=7.6
 voila>=0.3
 jupyter
-torch>=1.13
-torchvision>=0.14
